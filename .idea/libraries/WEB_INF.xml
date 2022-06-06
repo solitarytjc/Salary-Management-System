@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="WEB-INF">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/web1_war_exploded/WEB-INF/mysql-connector-java-8.0.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/web1_war_exploded/WEB-INF/taglibs-standard-impl-1.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/web1_war_exploded/WEB-INF/mysql-connector-java-5.1.39-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/web1_war_exploded/WEB-INF/jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/web1_war_exploded/WEB-INF/taglibs-standard-spec-1.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/web1_war_exploded/WEB-INF/fastjson-1.2.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
